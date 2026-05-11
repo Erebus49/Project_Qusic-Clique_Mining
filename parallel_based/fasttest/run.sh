@@ -1,0 +1,12 @@
+./PLS /home/wyy/benchmark/SCP/SoftTest-L/sac_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-L/javagc_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-M/hsmgp_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-M/SQL_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-M/hipacc_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-M/Dune_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-M/BDBC_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-S/BDBJ_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-S/LLVM_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-S/x264_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SoftTest-S/Apache_SCP.txt 300 1 0 >> res3.txt
+./PLS /home/wyy/benchmark/SCP/SCP-CLR/scpclr-11.txt 300 1 0 >> res3.txt
